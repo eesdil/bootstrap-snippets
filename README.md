@@ -1,6 +1,7 @@
 Bootstrap Snippets
 ==================
 
+It is based on bonsaiben's repo, but amended for Bootstrap v3. And not finished... so if something is wrong or missing help is welcome.
 This repository contains HTML and Haml snippet files for Twitter Bootstrap, for the famous [snipmate](https://github.com/garbas/vim-snipmate) plugin for Vim.
 
 Dependencies
